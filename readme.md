@@ -1,5 +1,5 @@
-Autor: Leonardo Araújo
+# Nome: Estacionamento
 
-Nome: Estacionamento
+*Powered by Leonardo Araújo*
 
-Programinha sobre sistema de estacionamento, feito para uma atividade de faculdade.
+Program about parking system, made for a college activity.
